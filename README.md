@@ -6,11 +6,9 @@ I am currently working at [Enterpret](https://www.enterpret.com/) as a Founding 
 
 My interests are in Unsupervised Algorithms, Semantic Similarity and Productionising the NLP models. I also like to follow latest research works happening in the NLP domain.
 
+Check out my latest blogs here: [Deep Learning Blogs](https://www.ravirajag.dev)
+
 Besides work, I like cooking 🥘 , cycling 🚴‍♀️ , kdramas 🎥.
-
-
-<h3 align="left"> Blog </h3>
- <a href="https://www.ravirajag.dev" target="_blank"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
 
   
 <h3 align="left">Languages & Tools:</h3>
